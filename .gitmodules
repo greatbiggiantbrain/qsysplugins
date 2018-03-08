@@ -1,0 +1,3 @@
+[submodule "subPlugin"]
+	path = subPlugin
+	url = https://github.com/greatbiggiantbrain/subPlugin
